@@ -1,0 +1,62 @@
+Sample	Taxonomy	Gene	Status
+SRR8902718	Klebsiella pneumoniae	dfrA23	Both
+SRR8902718	Klebsiella pneumoniae	sul2	Both
+SRR8902718	Klebsiella pneumoniae	catB3	Both
+SRR8902718	Klebsiella pneumoniae	CTX-M-15	Both
+SRR8902718	Klebsiella pneumoniae	Klebsiella pneumoniae KpnF	Both
+SRR8902718	Klebsiella pneumoniae	AAC(6')-Ib-cr	Partial
+SRR8902718	Klebsiella pneumoniae	sul1	Both
+SRR8902718	Klebsiella pneumoniae	SHV-11	RGI_only
+SRR8902718	Klebsiella pneumoniae	TEM-1 	Both
+SRR8902718	Klebsiella pneumoniae	OXA-1	Both
+SRR8902718	Klebsiella pneumoniae	mphA	Both
+SRR8902718	Klebsiella pneumoniae	 oqxA	Both
+SRR8902718	Klebsiella pneumoniae	QnrB1	Both
+SRR8902665	Staphylococcus aureus	APH(3')-IIIa	Both
+SRR8902665	Staphylococcus aureus	mepA	Both
+SRR8902665	Staphylococcus aureus	arlR	Both
+SRR8902665	Staphylococcus aureus	arlS	Both
+SRR8902665	Staphylococcus aureus	Staphylococcus aureus FosB	Both
+SRR8902665	Staphylococcus aureus	mepR	Both
+SRR8902665	Staphylococcus aureus	mgrA	Both
+SRR8902714	Pseudomonas aeruginosa	FosA	Both
+SRR8902714	Pseudomonas aeruginosa	PmpM	Both
+SRR8902714	Pseudomonas aeruginosa	basS	RGI_only
+SRR8902714	Pseudomonas aeruginosa	Pseudomonas aeruginosa emrE	Both
+SRR8902714	Pseudomonas aeruginosa	MexE	Both
+SRR8902714	Pseudomonas aeruginosa	OprN	Both
+SRR8902714	Pseudomonas aeruginosa	OpmB	Both
+SRR8902714	Pseudomonas aeruginosa	MuxB	Both
+SRR8902714	Pseudomonas aeruginosa	OprM	Both
+SRR8902714	Pseudomonas aeruginosa	MexA	Both
+SRR8902714	Pseudomonas aeruginosa	MexW	Both
+SRR8902714	Pseudomonas aeruginosa	OpmD	Both
+SRR8902714	Pseudomonas aeruginosa	MexI	Both
+SRR8902714	Pseudomonas aeruginosa	MexH	Both
+SRR8902714	Pseudomonas aeruginosa	MexG	Both
+SRR8902714	Pseudomonas aeruginosa	bcr-1	Both
+SRR8902714	Pseudomonas aeruginosa	MexC	Both
+SRR8902714	Pseudomonas aeruginosa	TriC	Both
+SRR8902714	Pseudomonas aeruginosa	TriB	Both
+SRR8902714	Pseudomonas aeruginosa	TriA	Both
+SRR8902714	Pseudomonas aeruginosa	Pseudomonas aeruginosa CpxR	Both
+SRR8902714	Pseudomonas aeruginosa	Pseudomonas aeruginosa soxR	Both
+SRR8902815	Escherichia coli	baeR	Both
+SRR8902815	Escherichia coli	emrY	Both
+SRR8902815	Escherichia coli	emrK	Both
+SRR8902815	Escherichia coli	evgA	Both
+SRR8902815	Escherichia coli	TolC	Both
+SRR8902815	Escherichia coli	msbA	Both
+SRR8902815	Escherichia coli	emrR	Both
+SRR8902815	Escherichia coli	emrB	Both
+SRR8902815	Escherichia coli	mdtH	Both
+SRR8902815	Escherichia coli	marA	Both
+SRR8902815	Escherichia coli	H-NS	Both
+SRR8902815	Escherichia coli	mphA	Both
+SRR8902815	Escherichia coli	sul1	Both
+SRR8902815	Escherichia coli	aadA5	RGI_only
+SRR8902815	Escherichia coli	dfrA17	Both
+SRR8902815	Escherichia coli	sul2	Both
+SRR8902815	Escherichia coli	CTX-M-15	Both
+SRR8902815	Escherichia coli	AAC(6')-Ib-cr	Partial
+SRR8902815	Escherichia coli	OXA-1	Both
