@@ -1,6 +1,6 @@
 # AMR++ results
 
-The results for AMR++ version 3 are saved in `AMR-plus-plues-ResistomeCounts/`.
+The results for AMR++ version 3 are saved in `AMR-plus-plus-ResistomeCounts/`.
 
 # RGI *bwt* results
 
